@@ -1,0 +1,8 @@
+{
+  "name": "Conventional-Commits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bui-duc-huy/Conventional-Commits",
+  "author": "Bùi Đức Huy <duchuy.124dk@gmail.com>",
+  "license": "MIT"
+}
