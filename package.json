@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/bui-duc-huy/Conventional-Commits",
   "author": "Bùi Đức Huy <duchuy.124dk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "script": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
 }
