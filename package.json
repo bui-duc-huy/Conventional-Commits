@@ -5,7 +5,7 @@
   "repository": "https://github.com/bui-duc-huy/Conventional-Commits",
   "author": "Bùi Đức Huy <duchuy.124dk@gmail.com>",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "release": "standard-version"
   },
   "devDependencies": {
