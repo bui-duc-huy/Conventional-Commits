@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/bui-duc-huy/Conventional-Commits/compare/v1.1.0...v1.2.0) (2021-12-01)
+
+
+### Features
+
+* **readme:** add readme ([62e73bb](https://github.com/bui-duc-huy/Conventional-Commits/commit/62e73bbefe45193adf202b3f902bfa2944ebd5ca))
+
 ## 1.1.0 (2021-12-01)
 
 
